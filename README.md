@@ -16,6 +16,10 @@ pip install -r requirements.txt
 
 _Note_: May need to setup [Rust](https://rustup.rs/) for it to work.
 
+## Getting the API key
+
+The api key is available in the official site [here](https://aistudio.google.com/app/apikey)
+
 ## Running the Chatbot
 
 Run the following command to start the chatbot:
